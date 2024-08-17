@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **full stack development projects, machine learning models, and AI research. I'm also exploring new technologies and tools to enhance my skills.**
 
-- 🌱 I’m currently learning **dvanced concepts in machine learning, deep learning, and artificial intelligence. I'm also improving my skills in React, Node.js, and cloud services like AWS and Azure.**
+- 🌱 I’m currently learning **advanced concepts in machine learning, deep learning, and artificial intelligence. I'm also improving my skills in React, Node.js, and cloud services like AWS and Azure.**
 
 - 👯 I’m looking to collaborate on **open source projects related to web development, machine learning, and artificial intelligence. I'm particularly interested in innovative projects that combine these fields.**
 
